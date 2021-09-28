@@ -1,0 +1,17 @@
+/*Hermanos adyacentes*/
+/* h2 + p {
+    color: red;
+} */
+/*Hermano general*/
+h2 ~ p {
+    color: yellowgreen;
+}
+/*Child*/
+div > p {
+    color: red;
+}
+/*Descendiente*/
+div p {
+    color: springgreen;
+    font-size: 20px;
+}
