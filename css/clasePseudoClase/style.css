@@ -2,10 +2,10 @@
     margin-top: 10px;
     list-style: none;
     padding-left: 0;
-    background-color: burlywood;
+    background-color: rgb(146, 78, 224);
 }
 .main-nav__item{
-    display: inline-block;
+    display: inline-block; /*Con esto hacemos que los elementos se posicionen en forma horizontal*/
 }
 .main-nav__item a{
     color: white;
@@ -13,14 +13,14 @@
     border-radius: 2px;
     text-decoration: none;
 }
-/*Pseudo-Clases*/
+/*Pseudo-Clases: Define el estilo de un estado especial de un elemento*/
 .main-nav__item a:hover{
-    color: tomato;
+    color: rgb(7, 102, 7);
 }
 .main-nav__item a:active{
-    color: green;
+    color: rgb(228, 243, 12);
 }
-/*Pseudo-Elementos*/
+/*Pseudo-Elementos: Define el estilo de una parte especifica de un elemento*/
 .main-nav__item a::after{
     content: " | ";
 }
