@@ -3,5 +3,5 @@ html{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 h1{
-    font-size: inherit; /*heredar*/
+    font-size: inherit; /*heredar las propiedades del padre HTML*/
 }
