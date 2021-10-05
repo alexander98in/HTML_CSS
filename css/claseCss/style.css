@@ -1,6 +1,6 @@
 p{
     color: blue;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 /*class*/
@@ -10,6 +10,6 @@ p{
 
 /*id*/
 #texto{
-    color: yellowgreen;
+    color: rgb(205, 138, 50);
     font-size: 24px;
 }
