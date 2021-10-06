@@ -9,7 +9,7 @@ html {
 main {
     width: 100vw;
     height: 100vh;
-    background-color: blueviolet;
+    background-color: rgb(12, 146, 30);
 }
 section {
     width: 80%;
@@ -17,5 +17,8 @@ section {
     max-width: 500px;
     min-height: 500px;
     margin: 0 auto;
-    background-color: red;
+    background-color: rgb(199, 76, 76);
+}
+main section p {
+    font-size: 1rem;
 }

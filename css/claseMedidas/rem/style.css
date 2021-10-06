@@ -3,12 +3,13 @@
     margin: 0;
     padding: 0;
 }
+/*Rem siempre va a referenciar al tamaño de fuente del HTML*/
 html {
     font-size: 62.5%;
 }
 p {
     font-size: 1.6rem;
 }
-main div {
-    font-size: 1.6rem;
+main p {
+    font-size: 4rem;
 }
