@@ -4,7 +4,7 @@
 } */
 /*Hermano general*/
 h2 ~ p {
-    color: yellowgreen;
+    color: rgb(199, 241, 114);
 }
 /*Child*/
 div > p {
